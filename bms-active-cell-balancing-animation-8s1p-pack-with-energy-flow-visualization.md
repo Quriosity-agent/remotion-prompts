@@ -1,4 +1,4 @@
-﻿# BMS Active Cell Balancing Animation - 8S1P Pack with Energy Flow Visualization
+# BMS Active Cell Balancing Animation - 8S1P Pack with Energy Flow Visualization
 
 **Likes:** 6
 **Model:** Opus 4.6
@@ -38,7 +38,6 @@ Create a Remotion project that renders a BMS Active Cell Balancing animation. 10
 
   Info panel at bottom with spring animation: Pack Voltage, Max Delta (color-coded: green below 10mV, orange below 50mV, red above), Avg Cell, Config (8S1P), Pack SOC, Method: Active
 
-  Legend at bottom: "â–² Discharging (high cell)" orange, "â–¼ Charging (low cell)" green
+  Legend at bottom: "▲ Discharging (high cell)" orange, "▼ Charging (low cell)" green
 
   Render: npx remotion render src/index.ts BmsCellBalancing out/bms-cell-balancing.mp4
-

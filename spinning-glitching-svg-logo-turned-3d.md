@@ -1,4 +1,4 @@
-﻿# Spinning, glitching SVG Logo turned 3D
+# Spinning, glitching SVG Logo turned 3D
 
 **Likes:** 13
 **Model:** Opus 4.5
@@ -35,5 +35,4 @@ yes please, please make everything deterministic
 export this as a transparent video i can use in after effects
 
 did not work, check the docs: https://www.remotion.dev/docs/transparent-videos/
-
 

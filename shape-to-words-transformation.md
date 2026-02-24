@@ -1,4 +1,4 @@
-﻿# Shape to words transformation
+# Shape to words transformation
 
 **Likes:** 16
 **Model:** k2.5
@@ -19,4 +19,3 @@ Scene 2 (The Morph): Trigger a dynamic sequence where the shapes jump up, spin 1
 Scene 3 (The Arrival): Fly in the Remotion Logo from the left side to hover near the 'R'. Have it snap into place with a spring animation and immediately perform a full 360-degree rotation.
 Scene 4 (The Wipe): Execute a slow, cinematic exit. The logo should slide smoothly across the entire screen from left to right. Implement a "Wipe Logic" where each letter of "REMOTION" vanishes (scales down/fades out) exactly in sync as the logo passes over it, creating an erasing effect.
 Technical Requirements: Use remotion springs for all physics (damping: 14 for jumps, damping: 300 for the slow wipe). No strokes on shapes, only filled vibrant colors.
-

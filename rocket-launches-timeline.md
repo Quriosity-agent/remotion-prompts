@@ -1,4 +1,4 @@
-﻿# Rocket Launches Timeline
+# Rocket Launches Timeline
 
 **Likes:** 36
 **Model:** 
@@ -8,5 +8,4 @@
 
 ## Prompt
 
-Animate every SpaceX rocket launch from 2015â€“2025 in chronological order. Show the launch parabolas with trajectory fading. Use an abstract, minimalist aesthetic. Give me three versions first, then Iâ€™ll pick one and refine it via feedback.
-
+Animate every SpaceX rocket launch from 2015–2025 in chronological order. Show the launch parabolas with trajectory fading. Use an abstract, minimalist aesthetic. Give me three versions first, then I’ll pick one and refine it via feedback.

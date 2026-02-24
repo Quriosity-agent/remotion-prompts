@@ -1,4 +1,4 @@
-﻿# Music CD store promo
+# Music CD store promo
 
 **Likes:** 13
 **Model:** Kimi K2.5
@@ -8,9 +8,9 @@
 
 ## Prompt
 
-Use Remotion best practices skill. Create a 30-second video at 30fps. Start with a hook: white text on black background, 'Where do you even buy music anymore?' â€” fade it in, hold for 2 seconds, fade out.
+Use Remotion best practices skill. Create a 30-second video at 30fps. Start with a hook: white text on black background, 'Where do you even buy music anymore?' — fade it in, hold for 2 seconds, fade out.
 
-Next section: show the Disc Depot logo from public/discdepot-logo.png. Use a warm orange gradient background. Add a subtle tagline below: 'Music, delivered.â€™.
+Next section: show the Disc Depot logo from public/discdepot-logo.png. Use a warm orange gradient background. Add a subtle tagline below: 'Music, delivered.’.
 
 In the next section, add a counter that counts up to 12,000 with a plus sign. Label it 'Happy customers'. Keep the same background style.
 
@@ -18,10 +18,10 @@ Create 5 CD album covers as abstract gradient cards. Different color combination
 
 Add artist names and song titles.
 
-Letâ€™s add a final section:
+Let’s add a final section:
 End with a call to action: 'Find your sound.' and the URL 'discdepot.com'. Fade to black.
 
-Letâ€™s improve the transition between series. For example: orange in the second section should interpolate from black to orange. Now itâ€™s just not too smooth. And improve that between sections.
+Let’s improve the transition between series. For example: orange in the second section should interpolate from black to orange. Now it’s just not too smooth. And improve that between sections.
 
 # A lot of refining prompts followed.
 
@@ -30,4 +30,3 @@ Very nice! Can you make logo react to audio using `useAudioData` hook? https://w
 Can you make ALL scenes audio reactive? So that all elements dance to the music frequencies?
 
 I want everything react to low frequencies only
-

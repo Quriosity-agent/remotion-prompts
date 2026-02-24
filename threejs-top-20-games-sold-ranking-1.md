@@ -1,4 +1,4 @@
-﻿# Three.js "Top 20 Games Sold" Ranking
+# Three.js "Top 20 Games Sold" Ranking
 
 **Likes:** 34
 **Model:** 
@@ -22,5 +22,4 @@ here is the game ranking data you need
 
 # [data as a JSON string]
 # More instructions: https://x.com/DilumSanjaya/status/2018367621381620142
-
 
