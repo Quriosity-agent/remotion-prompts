@@ -1,0 +1,73 @@
+# Remotion Prompts Gallery 🎬
+
+A curated collection of 21 video prompts from [remotion.dev/prompts](https://www.remotion.dev/prompts) — real examples of AI-generated videos using [Remotion](https://remotion.dev) + coding agents.
+
+## What is this?
+
+These are real prompts that people used with AI coding agents (Claude Code, Cursor, Gemini, OpenCode) to generate professional videos using Remotion. Browse them for inspiration or use them as templates for your own projects.
+
+## Top Prompts by Likes
+
+| # | Prompt | Likes | Model | Tool |
+|---|--------|-------|-------|------|
+| 1 | [Travel Route on Map with 3D Landmarks](travel-route-on-map-with-3d-landmarks.md) | 73 | Opus 4.5 | Claude Code |
+| 2 | [News Article Headline Highlight](news-article-headline-highlight.md) | 70 | Claude Code | Opus 4.5 |
+| 3 | [Launch Video on X](launch-video-on-x.md) | 48 | Opus 4.6 | Claude Code |
+| 4 | [Product Demo for Presscut](product-demo-for-presscut.md) | 40 | Claude Opus 4.5 | Claude Code |
+| 5 | [Rocket Launches Timeline](rocket-launches-timeline.md) | 36 | — | — |
+
+## Categories
+
+**🗺️ Maps & Data Viz**
+- [Travel Route on Map](travel-route-on-map-with-3d-landmarks.md) — 3D map animation with landmarks
+- [Rocket Launches Timeline](rocket-launches-timeline.md) — SpaceX launch trajectories
+- [Bar + Line Chart](bar-line-chart-combined.md) — Animated sales data
+- [Top 20 Games Ranking](threejs-top-20-games-sold-ranking-1.md) — 3D bar chart
+
+**🎬 Product & Marketing**
+- [Launch Video on X](launch-video-on-x.md) — Product announcement
+- [Product Demo for Presscut](product-demo-for-presscut.md) — App demo video
+- [Promotion Video for VVTerm](promotion-video-for-vvterm.md) — Apple-style promo
+- [Music CD Store Promo](music-cd-store-promo.md) — Audio-reactive promo
+- [The Kinetic Marketing](the-kinetic-marketing.md) — Kinetic typography
+
+**🎨 Motion Graphics & 3D**
+- [Spinning Glitching SVG Logo](spinning-glitching-svg-logo-turned-3d.md) — 3D metallic logo
+- [Cinematic Tech Intro](cinematic-tech-intro.md) — CEO introduction
+- [Shape to Words Transformation](shape-to-words-transformation.md) — Morphing animation
+- [3D Retro Pixel Font](3d-retro-pixel-font.md) — Pixel block text building
+
+**📰 Content & Social**
+- [News Article Headline Highlight](news-article-headline-highlight.md) — OCR + highlight effect
+- [Transparent Call-To-Action](transparent-call-to-action-overlay.md) — YouTube subscribe overlay
+- [Strava Run Visualized](strava-run-visualized.md) — GPS data to Instagram story
+
+**🏠 Industry**
+- [Real Estate Investing](real-estate-investing.md) — Luxury property video
+- [BMS Cell Balancing Animation](bms-active-cell-balancing-animation-8s1p-pack-with-energy-flow-visualization.md) — Technical visualization
+
+**🎵 Audio**
+- [Audio Spectrum Visualizer](audio-spectrum-visualizer.md) — Music spectrum bars
+
+## How to Use
+
+1. Pick a prompt that inspires you
+2. Open your Remotion project
+3. Run with your AI coding agent:
+   ```
+   claude -p "<paste prompt here>" --dangerously-skip-permissions
+   ```
+4. Customize and iterate!
+
+## Files
+
+- `all-prompts.json` — Complete raw data from remotion.dev
+- `*.md` — Individual prompt files with metadata
+
+## Source
+
+All prompts scraped from [remotion.dev/prompts](https://www.remotion.dev/prompts) on 2026-02-25.
+
+---
+
+[中文版 →](README-zh.md)
